@@ -2,4 +2,4 @@ Project HOPE is a student-initiated outreach program founded by the Vietnamese S
 
 Since volunteering in the winter of 2019, I have become deeply invested in the success of both HOPE and its students. Over the following academic year, I undertook the task of designing a personal website for the project. 
 
-project-hope.site
+https://project-hope.site
